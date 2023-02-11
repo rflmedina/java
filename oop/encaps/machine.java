@@ -1,5 +1,13 @@
 package oop.encaps;
 
 public class machine {
-    double temperature;
+    private double temperature;
+
+    void changeTemperature(double temperature) {
+        this.temperature = temperature;
+    }
+
+    int getTemperature() {
+        return (int) this.temperature;
+    }
 }
