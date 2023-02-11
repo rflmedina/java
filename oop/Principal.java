@@ -1,8 +1,5 @@
 package oop;
 
-import javax.xml.namespace.QName;
-
-
 public class Principal {
     public static void main(String[] args) {
         FolhaPagamento folha = new FolhaPagamento();
