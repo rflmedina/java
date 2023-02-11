@@ -1,4 +1,4 @@
-package oop;
+package oop.methods;
 
 public class FolhaPagamento {
    double calcularSalario(int horasNormais, int horasExtras, double valorHoraNormal, double valorHoraExtra) {

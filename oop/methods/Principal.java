@@ -1,4 +1,4 @@
-package oop;
+package oop.methods;
 
 public class Principal {
     public static void main(String[] args) {
